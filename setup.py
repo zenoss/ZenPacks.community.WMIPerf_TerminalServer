@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.WMIPerf_TerminalServer"
 VERSION = "2.1"
 AUTHOR = "Johan Keskitalo,R.Esteve"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.WMIPerf_TerminalServer']
 INSTALL_REQUIRES = ['ZenPacks.community.WMIDataSource>=2.7']
